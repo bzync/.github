@@ -82,6 +82,8 @@ It focuses on reusable, accessible, production-oriented React and Tailwind CSS c
 
 It is also used within Bzync software and cloud infrastructure where appropriate.
 
+**Website:** [nextsql.bzync.com](https://nextsql.bzync.com)
+
 ---
 
 ## Engineering Principles
